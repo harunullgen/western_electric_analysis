@@ -1,8 +1,3 @@
-📌 What is this project and why is it important?
-
-In manufacturing and operational environments, detecting early signs of process instability is critical to ensure quality and efficiency. This project leverages Western Electric Rules, a well-established statistical process control methodology, to identify unusual patterns in weekly performance data. It is particularly useful in quality assurance, process monitoring, and operational risk detection for retail chains, production lines, or any environment involving time series data.
-
-
 # 📊 Western Electric Rules Analyzer
 
 This Python application analyzes weekly store performance data using **Western Electric Rules**, a set of statistical process control (SPC) rules used to detect out-of-control conditions in time series data.
